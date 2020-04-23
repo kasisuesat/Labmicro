@@ -8,10 +8,11 @@
 
   [รายงานการทดลองที่ 2](https://drive.google.com/open?id=1iw4J_r1HJhgbuLyJea_OazYA_zxz3QRo)
   
-  [สอนการสมัครgithub](https://www.youtube.com/watch?v=ozMa6FNLYrw&t=16s)
+  [สอนการสมัครGithub](https://www.youtube.com/watch?v=ozMa6FNLYrw&t=16s)
 
 - การทดลองที่ 3 การสร้าง Github Page
 
+  [สอนการสร้างเพจโดยใช้Github](https://www.youtube.com/watch?v=5_uuIxYynMQ)
 
 - การทดลองที่ 4 การนำ Microcontroller มาประยุกต์ใช้
 
