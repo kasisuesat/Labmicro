@@ -6,6 +6,8 @@
 
 - การทดลองที่ 3 การสร้าง Grithub Page
 
+[สอนการสมัครgithub](https://www.youtube.com/watch?v=ozMa6FNLYrw&t=16s)
+
 - การทดลองที่ 4 การนำ Microcontroller มาประยุกต์ใช้
 
 [ระบบติดตามภายในรถยนต์](https://drive.google.com/open?id=1AacF6e7SrCffiQ2U0JwySlPNmF7lqjoq)  
