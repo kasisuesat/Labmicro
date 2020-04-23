@@ -4,7 +4,7 @@
 
 - การทดลองที่ 2 การแจ้งข้อมูลผ่านแอพพลิเคชัน line
 
-- การทดลองที่ 3 การสร้าง Grithub Page
+- การทดลองที่ 3 การสร้าง Github Page
 
   [สอนการสมัครgithub](https://www.youtube.com/watch?v=ozMa6FNLYrw&t=16s)
 
